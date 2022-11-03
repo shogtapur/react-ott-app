@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/react-ott-app/static/js/main.e88b3754.js",
+    "static/css/850.8390dd0e.chunk.css": "/react-ott-app/static/css/850.8390dd0e.chunk.css",
+    "static/js/850.02afb5a9.chunk.js": "/react-ott-app/static/js/850.02afb5a9.chunk.js",
+    "static/css/632.7812879c.chunk.css": "/react-ott-app/static/css/632.7812879c.chunk.css",
+    "static/js/632.4eed8146.chunk.js": "/react-ott-app/static/js/632.4eed8146.chunk.js",
+    "static/js/787.a18e3b63.chunk.js": "/react-ott-app/static/js/787.a18e3b63.chunk.js",
+    "index.html": "/react-ott-app/index.html",
+    "main.e88b3754.js.map": "/react-ott-app/static/js/main.e88b3754.js.map",
+    "850.8390dd0e.chunk.css.map": "/react-ott-app/static/css/850.8390dd0e.chunk.css.map",
+    "850.02afb5a9.chunk.js.map": "/react-ott-app/static/js/850.02afb5a9.chunk.js.map",
+    "632.7812879c.chunk.css.map": "/react-ott-app/static/css/632.7812879c.chunk.css.map",
+    "632.4eed8146.chunk.js.map": "/react-ott-app/static/js/632.4eed8146.chunk.js.map",
+    "787.a18e3b63.chunk.js.map": "/react-ott-app/static/js/787.a18e3b63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e88b3754.js"
+  ]
+}
